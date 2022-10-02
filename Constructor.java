@@ -23,8 +23,6 @@ class Mahasiswa {
     
    // Constructor END
 
-    // Constructor Code END
-
 }
 
 public class Constructor {
@@ -34,5 +32,5 @@ public class Constructor {
         Mahasiswa datamahasiswa = new Mahasiswa("Nizar Fadilah", "Information D", "2211003322", "Information");
     }
 
-
 }
+
