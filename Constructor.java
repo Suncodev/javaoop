@@ -21,6 +21,8 @@ class Mahasiswa {
 
     }
 
+    // Constructor Code END
+
 }
 
 public class Constructor {
