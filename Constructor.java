@@ -20,6 +20,8 @@ class Mahasiswa {
         System.out.println(prodi);
 
     }
+    
+   // Constructor END
 
     // Constructor Code END
 
